@@ -1,10 +1,7 @@
 # Computer-Vision-Assignment
 Classifying Dog Images / Training a Classifier from Scratch / Transfer Learning in Convolutional Neural Networks
 
-AYTEKİN YILDIZHAN
-N18147923
-CMP719 Computer Vision Homework 1
-In this homework, there are three parts and five MATLAB m. files.
+In this project, there are three parts and five MATLAB m. files.
 MATLAB 2018b is used.
 
 These are;
